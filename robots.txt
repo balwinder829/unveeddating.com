@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /assets
+Disallow: /controllers
+Disallow: /endpoint
+Disallow: /lib
+Disallow: /install
+Disallow: /requests
+Disallow: /admin-panel
